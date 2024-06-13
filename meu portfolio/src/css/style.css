@@ -1,0 +1,11 @@
+body{
+     background-color: #212529;
+    color: #4cc9f0;
+}
+
+a {
+    background-color: black;
+    color: #4cc9f0;
+    border: solid 1px;
+    border-radius: 50px;
+}
